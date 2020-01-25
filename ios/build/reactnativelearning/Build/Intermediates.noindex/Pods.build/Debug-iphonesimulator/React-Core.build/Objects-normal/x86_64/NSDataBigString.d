@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/stevedalai/Documents/reactnativeleaning/node_modules/react-native/React/CxxBridge/NSDataBigString.mm \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/stevedalai/Documents/reactnativeleaning/node_modules/react-native/React/CxxBridge/NSDataBigString.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBigString.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Exception.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Conv.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/DoubleConversion/double-conversion/double-conversion.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/DoubleConversion/double-conversion/utils.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Demangle.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/FBString.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Portability.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/CPortability.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Traits.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/hash/Hash.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Utility.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/functional/ApplyTuple.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/functional/Invoke.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Preprocessor.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/hash/SpookyHashV1.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/lang/Bits.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/ConstexprMath.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/lang/Assume.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/portability/Builtins.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/memory/Malloc.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/memory/detail/MallocImpl.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Expected.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Likely.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Optional.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Unit.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/lang/ColdClass.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Range.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/portability/Constexpr.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/portability/String.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/CpuId.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/detail/RangeCommon.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/glog/glog/logging.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/glog/glog/log_severity.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/glog/glog/vlog_is_on.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/detail/RangeSse42.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/portability/Math.h

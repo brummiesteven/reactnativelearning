@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/stevedalai/Documents/reactnativeleaning/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec-generated.mm \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch \
+  /Users/stevedalai/Documents/reactnativeleaning/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Optional.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Portability.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/CPortability.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Traits.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/Utility.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h

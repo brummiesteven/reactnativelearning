@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/stevedalai/Documents/reactnativeleaning/node_modules/react-native/Libraries/Image/RCTImageCache.m \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Target\ Support\ Files/React-RCTImage/React-RCTImage-prefix.pch \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTImageCache.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTResizeMode.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTNetworking.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTNetworkTask.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestDelegate.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestHandler.h \
+  /Users/stevedalai/Documents/reactnativeleaning/ios/Pods/Headers/Public/React-Core/React/RCTImageUtils.h
